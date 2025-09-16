@@ -36,7 +36,7 @@ name = {name: "ed777"}
 
 //data types
 //tipery linum en primitiv ev obyektayin
-//parz tiper
+//parz tiper parzen ayn tipery voronq irenc mej chen nerarum ayl tiper
 
 string = "text"
 number = 2342345
